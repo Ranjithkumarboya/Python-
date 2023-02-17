@@ -1,2 +1,5 @@
-# Python-
-Python assignments and projects
+
+A=1
+
+if A=1;
+print("correct")
